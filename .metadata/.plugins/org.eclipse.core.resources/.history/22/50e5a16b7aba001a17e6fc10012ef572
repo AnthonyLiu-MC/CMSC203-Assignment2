@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 /****************************************************************
- * Class: CMSC203 CRN46667
+ * CMSC203 Assignment 2 Summer I 2020
  * Program: Assignment 2 Birthday Gift
  * Instructor: Dr. Grinberg
  * Description: A program takes in the names, ages, and choices of gifts from
